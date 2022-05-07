@@ -1,5 +1,8 @@
 # git-fuck
+
 Find yoUr Code breaK in git.
+
+[![asciicast](https://asciinema.org/a/492833.svg)](https://asciinema.org/a/492833)
 
 ## Installation
 
