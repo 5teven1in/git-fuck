@@ -1,0 +1,3 @@
+[submodule "test/howto-git-bisect"]
+	path = test/howto-git-bisect
+	url = https://github.com/pnavarrc/howto-git-bisect.git
